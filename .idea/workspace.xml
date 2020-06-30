@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40ddc58f-2513-4750-bc41-63236d030b6f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/quene/BlockingQueneTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="96" column="48" lean-forward="true" selection-start-line="96" selection-start-column="22" selection-end-line="96" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#test01#0;class#BlockingQueneTest#0" />
+                <element signature="method#test01#1;class#BlockingQueneTest#0" />
+                <element signature="method#test02#1;class#BlockingQueneTest#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/quene/SynchronousQueueTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="37" column="46" lean-forward="true" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/jdk/src.zip!/java/util/concurrent/BlockingQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="228" column="52" selection-start-line="228" selection-start-column="52" selection-end-line="228" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/jdk/src.zip!/java/util/concurrent/SynchronousQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="874" column="16" selection-start-line="874" selection-start-column="16" selection-end-line="874" selection-end-column="16" />
+              <folding>
+                <element signature="e#34990#34991#0" expanded="true" />
+                <element signature="e#35017#35018#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/jdk/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="237" column="11" selection-start-line="237" selection-start-column="11" selection-end-line="237" selection-end-column="11" />
+              <folding>
+                <element signature="e#6812#6813#0" expanded="true" />
+                <element signature="e#6849#6850#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/guo/productconsumer/TestWithJUC.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/demo01/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/demo01/SaleTicketDemo01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/demo01/SaleTicketDemo02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/productconsumer/TestWithSynchronize.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/productconsumer/TestWithJUC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/productconsumer/TestWithJUCPrecision.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/lock8/Test01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/lock8/Test02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/lock8/Test03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/lock8/Test04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/lock8/Test05.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/unsale_collection/ListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/unsale_collection/SetTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/unsale_collection/MapTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/callable/CallableTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/assistance/CyclicBarrierDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/assistance/CountDownLatchDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/assistance/SemaphoreDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/readwritelock/ReadWriteLockDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/blocking_quene/BlockingQueneTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/quene/BlockingQueneTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/guo/quene/SynchronousQueueTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Environment/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\Environment\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="467" />
+    <option name="y" value="55" />
+    <option name="width" value="1276" />
+    <option name="height" value="785" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JUC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JUC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JUC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JUC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JUC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JUC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JUC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JUC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JUC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JUC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JUC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JUC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="guo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JUC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JUC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="guo" type="462c0819:PsiDirectoryNode" />
+              <item name="quene" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593524966530" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.26666668" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\bbjavase\JUC\src\main\java\com\guo\lock8" />
+      <recent name="E:\project\bbjavase\JUC\src\main\java\com\guo\productconsumer" />
+      <recent name="E:\project\bbjavase\JUC\src\main\java\com\guo\demo01" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SynchronousQueueTest">
+    <configuration name="BlockingQueneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.guo.quene.BlockingQueneTest" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guo.quene.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyclicBarrierDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.guo.assistance.CyclicBarrierDemo" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guo.assistance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadWriteLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.guo.readwritelock.ReadWriteLockDemo" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guo.readwritelock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SemaphoreDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.guo.assistance.SemaphoreDemo" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guo.assistance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynchronousQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.guo.quene.SynchronousQueueTest" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guo.quene.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SynchronousQueueTest" />
+        <item itemvalue="Application.BlockingQueneTest" />
+        <item itemvalue="Application.ReadWriteLockDemo" />
+        <item itemvalue="Application.SemaphoreDemo" />
+        <item itemvalue="Application.CyclicBarrierDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40ddc58f-2513-4750-bc41-63236d030b6f" name="Default Changelist" comment="" />
+      <created>1593372978301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593372978301</updated>
+      <workItem from="1593372980333" duration="7073000" />
+      <workItem from="1593413854598" duration="19402000" />
+      <workItem from="1593437900249" duration="10323000" />
+      <workItem from="1593508740619" duration="8014000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="44812000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24283667" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928367" visible="true" weight="0.38761777" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007163" side_tool="true" weight="0.20939597" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32839838" />
+      <window_info anchor="bottom" id="JProfiler" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Duplicate detector" order="14" weight="0.32885906" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/demo01/Test01.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/demo01/SaleTicketDemo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/demo01/SaleTicketDemo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="73" lean-forward="true" selection-start-line="20" selection-start-column="73" selection-end-line="20" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="255" column="11" selection-start-line="255" selection-start-column="11" selection-end-line="255" selection-end-column="11" />
+          <folding>
+            <element signature="e#8176#8177#0" expanded="true" />
+            <element signature="e#8216#8217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/productconsumer/TestWithSynchronize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="57" column="24" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="57" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/productconsumer/TestWithJUC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/productconsumer/TestWithJUCPrecision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="108" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/src.zip!/java/util/concurrent/locks/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="355" column="14" selection-start-line="355" selection-start-column="14" selection-end-line="355" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/lock8/Test03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="method#sendSms#0;class#Phone#0" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/lock8/Test02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/lock8/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="47" />
+          <folding>
+            <element signature="method#sendSms#0;class#Phone#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/lock8/Test04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/lock8/Test05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="60" selection-end-column="1" />
+          <folding>
+            <element signature="e#1443#1444#0" expanded="true" />
+            <element signature="e#1491#1492#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/unsale_collection/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="23" column="38" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="98" column="40" selection-start-line="98" selection-start-column="40" selection-end-line="98" selection-end-column="40" />
+          <folding>
+            <element signature="e#3497#3498#0" expanded="true" />
+            <element signature="e#3522#3523#0" expanded="true" />
+            <element signature="e#3605#3606#0" expanded="true" />
+            <element signature="e#3644#3645#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="224" column="12" selection-start-line="224" selection-start-column="12" selection-end-line="224" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/unsale_collection/SetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="97" column="1" selection-start-line="97" selection-start-column="1" selection-end-line="97" selection-end-column="55" />
+          <folding>
+            <element signature="e#3709#3710#0" expanded="true" />
+            <element signature="e#3746#3747#0" expanded="true" />
+            <element signature="e#8033#8034#0" expanded="true" />
+            <element signature="e#8081#8082#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7446">
+          <caret line="473" column="11" selection-start-line="473" selection-start-column="11" selection-end-line="473" selection-end-column="11" />
+          <folding>
+            <element signature="e#19296#19297#0" expanded="true" />
+            <element signature="e#19379#19380#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/unsale_collection/MapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="51" column="37" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="454" column="21" lean-forward="true" selection-start-line="454" selection-start-column="21" selection-end-line="454" selection-end-column="21" />
+          <folding>
+            <element signature="e#14796#14797#0" expanded="true" />
+            <element signature="e#14860#14861#0" expanded="true" />
+            <element signature="e#15480#15481#0" expanded="true" />
+            <element signature="e#15546#15547#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/src.zip!/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="197" column="11" selection-start-line="197" selection-start-column="11" selection-end-line="197" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/src.zip!/java/util/concurrent/CyclicBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1008">
+          <caret line="197" column="16" selection-start-line="197" selection-start-column="16" selection-end-line="197" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/assistance/CyclicBarrierDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/src.zip!/java/util/concurrent/Semaphore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="259" column="14" selection-start-line="259" selection-start-column="14" selection-end-line="261" selection-end-column="60" />
+          <folding>
+            <element signature="e#9084#9085#0" expanded="true" />
+            <element signature="e#9131#9132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="228" column="11" selection-start-line="228" selection-start-column="11" selection-end-line="228" selection-end-column="11" />
+          <folding>
+            <element signature="e#7757#7758#0" expanded="true" />
+            <element signature="e#7784#7785#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/src.zip!/java/util/concurrent/locks/ReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="118" column="17" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/callable/CallableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/assistance/CountDownLatchDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/assistance/SemaphoreDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/readwritelock/ReadWriteLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#MyCache#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.util.Collection">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.Collection</OriginalElement>
+          <nodes>
+            <node x="" y="">java.util.List</node>
+            <node x="" y="">java.util.Collection</node>
+            <node x="" y="">java.util.Set</node>
+            <node x="" y="">java.util.concurrent.BlockingQueue</node>
+            <node x="" y="">java.util.LinkedList</node>
+            <node x="" y="">java.util.ArrayList</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="52.5" y="56.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="143" column="22" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="237" column="11" selection-start-line="237" selection-start-column="11" selection-end-line="237" selection-end-column="11" />
+          <folding>
+            <element signature="e#6812#6813#0" expanded="true" />
+            <element signature="e#6849#6850#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/quene/BlockingQueneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="96" column="48" lean-forward="true" selection-start-line="96" selection-start-column="22" selection-end-line="96" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#test01#0;class#BlockingQueneTest#0" />
+            <element signature="method#test01#1;class#BlockingQueneTest#0" />
+            <element signature="method#test02#1;class#BlockingQueneTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/src.zip!/java/util/concurrent/BlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="228" column="52" selection-start-line="228" selection-start-column="52" selection-end-line="228" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk/src.zip!/java/util/concurrent/SynchronousQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="874" column="16" selection-start-line="874" selection-start-column="16" selection-end-line="874" selection-end-column="16" />
+          <folding>
+            <element signature="e#34990#34991#0" expanded="true" />
+            <element signature="e#35017#35018#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/guo/quene/SynchronousQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="37" column="46" lean-forward="true" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.26666668" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.26666668" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JUC</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.26666668" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.projectlombok:lombok:1.18.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.26666668" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
