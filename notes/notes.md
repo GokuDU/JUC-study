@@ -3801,10 +3801,8 @@ jps -l
 * 使用  **==jstack==**  通过**进程号**查看**堆栈信息** ，以找到死锁问题
 
 ```shell
-
+jstack [进程号]
 ```
-
-
 
 ![image-20200702203336386](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20200702203336386.png)
 

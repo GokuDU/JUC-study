@@ -2,30 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40ddc58f-2513-4750-bc41-63236d030b6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/cas/CASDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/forkjoin/ForkJoinDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/forkjoin/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/functional_interface/ConsumerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/functional_interface/FunctionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/functional_interface/PredicateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/functional_interface/SupplierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/future/FutureTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/lock/DeadLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/lock/LockReentrantLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/lock/LockSynchronized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/lock/SpinLockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/lock/TestSpinLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/pool/ExecutorsMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/single/EnumSingle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/single/Holder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/single/Hungry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/single/LazyMan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/stream/StreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/stream/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/volatile_test/JMMTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/guo/volatile_test/VolatileTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -142,7 +118,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="42" />
     <option name="y" value="51" />
     <option name="width" value="1276" />
@@ -164,51 +140,6 @@
               <item name="JUC" type="b2602c69:ProjectViewProjectNode" />
               <item name="JUC" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JUC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JUC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JUC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JUC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JUC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JUC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JUC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JUC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JUC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JUC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="guo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JUC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JUC" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="guo" type="462c0819:PsiDirectoryNode" />
-              <item name="lock" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -220,7 +151,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593693355196" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593693701494" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -340,12 +271,12 @@
       <workItem from="1593540166711" duration="5202000" />
       <workItem from="1593576160648" duration="26641000" />
       <workItem from="1593624855404" duration="9887000" />
-      <workItem from="1593688424184" duration="3758000" />
+      <workItem from="1593688424184" duration="4622000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100097000" />
+    <option name="totallyTimeSpent" value="100961000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -364,7 +295,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.88948786" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.35040432" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007163" side_tool="true" weight="0.20939597" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.26954177" />
