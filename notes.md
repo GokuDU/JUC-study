@@ -389,10 +389,6 @@ class Ticket2 {
 
 ​	Lock	适合锁**大量同步的代码**的同步问题
 
-7.synchronize    锁指定的对象（包括类对象），代码块
-
-​	Lock 锁 Lock 对象  ，使用 unlock（）方法 后释放
-
 
 
 ![image-20200629141207500](https://github.com/GokuDU/JUC-study/blob/master/notes/images/image-20200629141207500.png)
@@ -952,7 +948,7 @@ import java.util.concurrent.TimeUnit;
 /**
  *  5. 增加了两个静态的同步方法，只有一个对象     先执行 Send sms？  Phone call？
  *     注意：这里依然让 sendSms() 延迟2秒
- *          类一加载就有了   锁的是class      1 Se     先执行 Send sms？  Phone call？nd sms --> 2 Phone call
+ *          类一加载就有了   锁的是class      1 Send sms --> 2 Phone call
  *  
  *  6. 同样是两个静态的同步方法，但是有两个对象     先执行 Send sms？  Phone call？
  *          结果依然是      1 Send sms --> 2 Phone call
@@ -2039,7 +2035,9 @@ public ThreadPoolExecutor(int corePoolSize,		// 核心线程池大小
 
 ![image-20200630231252255](https://github.com/GokuDU/JUC-study/blob/master/notes/images/image-20200630231252255.png)
 
- *   new ThreadPoolExecutor.CallerRunsPolicy()      队列满了，哪来的去哪里   这里是线程进不来 当前线程就是imain线程
+
+
+ *   new ThreadPoolExecutor.CallerRunsPolicy()      队列满了，哪来的去哪里   这里是线程进不来 当前线程就是 main 线程
 
 ![image-20200630230325060](https://github.com/GokuDU/JUC-study/blob/master/notes/images/image-20200630230325060.png)
 
@@ -2054,6 +2052,8 @@ public ThreadPoolExecutor(int corePoolSize,		// 核心线程池大小
  *   new ThreadPoolExecutor.DiscardOldestPolicy()   队列满了,尝试和最早的线程竞争，不会抛出异常
 
 ![image-20200630231104343](https://github.com/GokuDU/JUC-study/blob/master/notes/images/image-20200630231104343.png)
+
+
 
 ### 11.5.手动创建一个线程池
 
@@ -3085,7 +3085,7 @@ public class LazyMan {
 
 
 
-### 18.3双重检测加锁懒汉式
+### 18.3.双重检测加锁懒汉式
 
 当然，这种情况可以被反射破解，我们需要在构造器加锁，但其实也没用，都可以被反射破解，这时候就要用到枚举了
 
@@ -3300,12 +3300,6 @@ class Test {
 ## 19.深入理解CAS
 
 ### 19.1.什么是CAS
-
-前言：互联网缩招之下，初级程序员大量过剩，高级程序员重金难求，除非你不吃这碗饭，否则就要逼自己提升
-
-**修内功： 操作系统，计算机网络，数据结构与算法**
-
-
 
 * CAS：比较当前 **工作内存中的值** 和 **主内存中的值**！如果这个值是期望的，就执行操作，如果不是就一直循环
   *  缺点
@@ -3546,8 +3540,7 @@ public class LockSynchronized {
 
         new Thread(()->{
             phone.sms();
-        },"B" +
-                "").start();
+        },"B").start();
     }
 }
 
