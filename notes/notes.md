@@ -4,7 +4,7 @@
 
 - java.util.concurrent 工具包
 
-![image-20200629031611229](notes/images/image-20200629031611229.png)
+![image-20200629031611229](https://github.com/GokuDU/JUC-study/blob/master/notes/images/image-20200629031611229.png)
 
 
 
